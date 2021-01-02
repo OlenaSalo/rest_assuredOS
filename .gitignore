@@ -1,0 +1,26 @@
+#Ignore all build directories
+build/
+build.201*/
+bin/
+
+
+*/out/test/
+
+.metadata/
+.gradle/
+.settings/
+
+.project
+.classpath
+.checkstyle
+
+/.nb-gradle
+
+*.iml
+.idea/
+.idea/libraries
+
+.DS_Store
+
+classes/
+gradle*
