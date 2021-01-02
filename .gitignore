@@ -28,8 +28,8 @@ hs_err_pid*
 *.iml
 *.ipr
 *.iws
-*.idea/
-*.idea/libraries
+.idea/
+
 
 .DS_Store
 
