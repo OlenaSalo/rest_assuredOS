@@ -24,11 +24,19 @@ hs_err_pid*
 .gradle
 
 #Ignore IDE project files
-.settings
-.project
-.classpath
 **/bin
 *.iml
 *.ipr
 *.iws
-**/.idea
+.idea/
+.idea/libraries
+
+.DS_Store
+
+#Ignore all class files ending with class
+*.class
+
+#Ignore all build directories
+build/
+build.201*/
+bin/
